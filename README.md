@@ -16,6 +16,3 @@
 
 ### Option 2
 Open index.html using any browser.
-
-#### Client
-https://www.codementor.io/adamschock
